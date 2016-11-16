@@ -496,6 +496,7 @@ header h2 {
 
 #main-content img {
   max-width: 100%;
+  border-radius: 50%;
   display: block;
   margin: auto;
 }
@@ -510,7 +511,7 @@ aside#sidebar {
   background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
 }
 aside#sidebar img {
-  border-radius:50%;
+
 }
 
 aside#sidebar p.repo-owner,
